@@ -1,4 +1,4 @@
-# taskrunner
+# gulp-runners
 
 jsのメタ言語のコンパイルとコードの圧縮(minify)と結合(concat)、
 cssのメタ言語のコンパイルとコードの圧縮(minify)と結合(concat)、
