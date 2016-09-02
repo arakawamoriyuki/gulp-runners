@@ -1,0 +1,23 @@
+{
+  "name": "taskrunner",
+  "description": "== README",
+  "main": "index.js",
+  "authors": [
+    "新川 盛幸 <arakawa_moriyuki@ca-adv.co.jp>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "angular-material": "^1.0.9",
+    "angular": "^1.5.6"
+  }
+}
