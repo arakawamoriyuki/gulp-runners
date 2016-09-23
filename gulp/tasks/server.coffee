@@ -5,6 +5,7 @@ browserSync = require 'browser-sync'
 $ = require('gulp-load-plugins')()
 config = require '../config.coffee'
 
+gulp.task 'serve', ['server']
 gulp.task 'server', ->
   options = merge({
     server:

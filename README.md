@@ -75,7 +75,7 @@ gulpとbowerをグローバルインストールし、必要モジュールを�
 
 ####タスクの実行
 
-######デフォルトタスク実行(build, watch, server)
+######デフォルトタスク実行(build, watch, serve)
 
     $ gulp
 
@@ -93,7 +93,7 @@ gulpとbowerをグローバルインストールし、必要モジュールを�
 
 ######簡易サーバー立ち上げ
 
-    $ gulp server
+    $ gulp serve
 
 ######テスト
 
